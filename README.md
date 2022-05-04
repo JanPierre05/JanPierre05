@@ -9,6 +9,12 @@
   - Phone: +51 970903651
   - LinkedIn: https://www.linkedin.com/in/jan-pierre-grados-moscol-43536b222/
 
+<h2>🚀Habilidades</h2>
+
+- HTML5.
+- CSS3.
+- JavaScript.
+
 <!---
 JanPierre05/JanPierre05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
