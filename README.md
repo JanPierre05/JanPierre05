@@ -1,3 +1,4 @@
+👋Hola soy Jan Pierre Grados Moscol💻Desarrollador front-end💻
 🚀 I'm studying in a Senati 👨‍🎓
 👀 I’m interested in programming and tecnology!
 💌 I’m looking for a remote job!
